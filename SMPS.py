@@ -87,6 +87,8 @@ class Transaction:
 
 def main():
     user1 = User("Ahmad", "alice@example.com", "0791234567")
+    print("vvv")
+    print("")
     user2 = User("Malek", "bob@example.com", "0771234567")
     account1 = PaymentAccount("acc123", 1000, user1)
     account2 = PaymentAccount("acc456", 500, user2)
