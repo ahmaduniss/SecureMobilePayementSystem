@@ -1,0 +1,1 @@
+This project is for our Software Engineering course at PSUT, it is a simulation of how a secure mobile payment system that uses AES encyption works. Here, you'll find the documentation, including all the diagrams and figures. The code itself is in SMPS.py. Have fun reading!
